@@ -1,0 +1,14 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "dependencies of api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
